@@ -10,6 +10,3 @@ IDE &amp; UI INTERFACE DESIGNER WRITTEN IN RUST
     + using a 2 Tab Design
     + make it looks great
     + just like or some kind of MonoDevelop UI Design, just Clean and simple!
-
-
-https://github.com/BadFactor/RUSTEX/blob/master/untitled_page.png
